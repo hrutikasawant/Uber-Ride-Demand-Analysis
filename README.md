@@ -1,7 +1,13 @@
 # Uber Ride Demand Analysis Project
 
 ## Project Overview
-This project analyzes Uber ride data to understand usage patterns, peak hours, popular locations, and trip durations. Insights are visualized using Python and a Power BI dashboard to support data-driven decisions.
+This project analyzes Uber ride data to understand usage patterns, peak hours, popular locations, and trip durations. Insights are visualized using Python and a Power BI dashboard to support data-driven decision making.
+
+## Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- Power BI  
+- Jupyter Notebook  
+- CSV datasets  
 
 ## Files in the Project
 - **UberDataset.csv** – Original raw Uber ride dataset.  
@@ -48,4 +54,9 @@ This project analyzes Uber ride data to understand usage patterns, peak hours, p
 ## Dashboard Preview
 ![Dashboard](Dashboard.png)
 
-![Dashboard](images/Dashboard.png)
+## Conclusion
+This project provides a comprehensive analysis of Uber ride data, revealing key insights such as peak hours, popular routes, and high-demand categories. The Power BI dashboard visualizes trends clearly, enabling data-driven decision making. By implementing the recommendations, Uber can optimize ride allocation, improve customer satisfaction, and enhance operational efficiency.
+
+
+
+

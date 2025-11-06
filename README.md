@@ -45,9 +45,7 @@ This project analyzes Uber ride data to understand usage patterns, peak hours, p
 3. Open `Uber.pbix` in Power BI to view the dashboard.  
 4. Review recommendations in the documentation file.
 
-## Clone the Repository
-```bash
-git clone https://github.com/HrutikaSawant/Uber-Ride-Demand-Analysis.git
-cd Uber-Ride-Demand-Analysis
-pip install -r requirements.txt
-jupyter notebook uber.ipynb
+## Dashboard Preview
+![Dashboard](Dashboard.png)
+
+![Dashboard](images/Dashboard.png)
